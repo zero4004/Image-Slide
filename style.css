@@ -131,6 +131,9 @@
 .button span:nth-child(2)::before {
   transform: rotate(135deg) translate(2px, 2px);
 }
+audio {
+  z-index: 99999;
+}
 
 @media screen and (max-width: 900px) {
   .slider {
