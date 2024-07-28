@@ -170,4 +170,8 @@ audio {
   .slider .slides:nth-child(5) {
     left: 240px;
   }
+  .title {
+  font-size: 1em;
+
+}
 }
