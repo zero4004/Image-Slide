@@ -148,7 +148,7 @@ audio {
 @media screen and (max-width: 900px) {
   .slider {
     position: absolute;
-    inset: 40px 40px 200px 40px;
+    inset: 10px 10px 200px 10px;
   }
   .slider .slides {
     width: 100px;
